@@ -1,7 +1,7 @@
-###1. NTP对时/etc/ntp.config
-#####2. 下游系统失败，上游系统该如何处理，保证事务，分布式事务
-##3. jvm调优，举个例子
---4. explain能看到哪些指标
+### 1. NTP对时/etc/ntp.config
+##### 2. 下游系统失败，上游系统该如何处理，保证事务，分布式事务
+## 3. jvm调优，举个例子
+-- 4. explain能看到哪些指标
 5. where 条件后面的执行顺序
 6. 索引的类型
 7. replace into 与 update on duplicate key的区别
